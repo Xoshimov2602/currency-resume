@@ -18,6 +18,7 @@ personalized experience and calculate money conversions instantly.
 - **Flutter**: Cross-platform development for Android and iOS.
 - **Retrofit & Dio**: Efficient API handling for fetching live and historical exchange rates.
 - **State Management**: Ensures smooth and predictable UI updates.
+- **Hive**: Saves changed language.
 - **Localization**: Allows users to switch between different languages.
 - **Date-Based Currency Rates**: Fetches exchange rates for a selected date.
 - **Real-Time Calculation**: Instantly converts money based on the chosen currency.
