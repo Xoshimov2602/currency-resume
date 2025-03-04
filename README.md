@@ -23,6 +23,8 @@ personalized experience and calculate money conversions instantly.
 - **Date-Based Currency Rates**: Fetches exchange rates for a selected date.
 - **Real-Time Calculation**: Instantly converts money based on the chosen currency.
 
+---
+
 ### 🖼️ Screenshots
 
 <table>
@@ -37,3 +39,7 @@ personalized experience and calculate money conversions instantly.
     <td><img src="images/screenshot6.jpg" alt="Screenshot 6" width="200"/></td>
   </tr>
 </table>
+
+### 🎥 App Preview
+
+![App Preview](images/my_app.gif)
